@@ -41,4 +41,4 @@ Rails.application.configure do
   # config.action_view.raise_on_missing_translations = true
 end
 
-TagRedis = Redis.new(port: 22222)
+TagRedis = Redis.new(port: 22324)
