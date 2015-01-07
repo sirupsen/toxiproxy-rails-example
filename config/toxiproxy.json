@@ -1,0 +1,7 @@
+[
+  {
+    "name": "toxiproxy_test_redis_master",
+    "listen": "127.0.0.1:22222",
+    "upstream": "127.0.0.1:6379"
+  }
+]
